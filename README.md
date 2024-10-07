@@ -1,6 +1,6 @@
 # MJML
 
-This is a fork of original @attilabuti VSC extension : (https://github.com/attilabuti/vscode-mjml)[https://github.com/attilabuti/vscode-mjml]
+This is a fork of original @attilabuti VSC extension : [https://github.com/attilabuti/vscode-mjml](https://github.com/attilabuti/vscode-mjml)
 
 MJML preview, lint, compile for Visual Studio Code.
 
@@ -169,11 +169,11 @@ Please see the [Nodemailer](https://nodemailer.com) documentation for more infor
 
 ## Issues
 
-Submit the [issues](https://github.com/mjml/vscode-mjml/issues) if you find any bug or have any suggestion.
+Submit the [issues](https://github.com/mjmlio/vscode-mjml/issues) if you find any bug or have any suggestion.
 
 ## Contribution
 
-Fork the [repo](https://github.com/mjml/vscode-mjml) and submit pull requests.
+Fork the [repo](https://github.com/mjmlio/vscode-mjml) and submit pull requests.
 
 ## Contributors
 
